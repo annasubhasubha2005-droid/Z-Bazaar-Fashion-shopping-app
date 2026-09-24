@@ -1,2 +1,2 @@
-# Fashion-shopping-app
+#MealEz - Fashion-shopping-app
 UI UX Design Project
