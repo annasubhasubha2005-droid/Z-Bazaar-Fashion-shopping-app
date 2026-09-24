@@ -1,2 +1,2 @@
-#MealEz - Fashion-shopping-app
+#Z'Bazaar- Fashion-shopping-app
 UI UX Design Project
